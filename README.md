@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://www.latamdeveloper.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/Latam-Developer-Company/.github/main/assets/logo.png" alt="Latam Developer Logo" width="100" style="border-radius: 16px;" />
+</a>
+
 # Hi there, I'm Harry Arroyo 👋
 ### Founder & Lead Software Architect at [Latam Developer](https://www.latamdeveloper.com)
 

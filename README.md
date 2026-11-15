@@ -28,23 +28,21 @@
 
 ## 🛠️ Technical Competencies & Stack
 
-- **Languages:** TypeScript, JavaScript, Python, PHP, Go, SQL, Bash
-- **Frontend Frameworks:** Angular, React, Next.js, Vue.js, Tailwind CSS
-- **Backend & APIs:** Node.js (NestJS / Express), Python (FastAPI / Django), PHP (Laravel / Symfony), RESTful APIs & GraphQL
-- **Cloud & DevOps:** AWS, Google Cloud Platform, Docker, Kubernetes, Nginx, CI/CD, Passenger, Linux System Administration
-- **Databases & Caching:** PostgreSQL, MySQL, Redis, MongoDB, SQLite
-- **AI & Integrations:** OpenAI GPT-4 APIs, Meta WhatsApp Cloud API, Vector DBs, LangChain
+| Discipline | Technologies & Frameworks |
+| :--- | :--- |
+| **Frontend Architecture** | `TypeScript` • `Angular` • `React` • `Next.js` • `Vue.js` • `Tailwind CSS` |
+| **Backend & APIs** | `Node.js (NestJS / Express)` • `Python (FastAPI / Django)` • `PHP / Laravel` • `Go` |
+| **Cloud & DevOps** | `AWS (EC2, S3, RDS, Lambda)` • `Google Cloud` • `Docker` • `Kubernetes` • `Nginx` • `CI/CD` |
+| **Databases & Cache** | `PostgreSQL` • `MySQL` • `Redis` • `MongoDB` • `SQLite` |
+| **AI Agents & Integrations** | `OpenAI GPT-4` • `Meta WhatsApp Cloud API` • `Vector Databases` • `LangChain` |
 
 ---
 
-## 📊 GitHub Ecosystem
+## 🌐 Enterprise Delivery & Nearshore Value
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=HArroyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harry's GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HArroyo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
-</div>
+- **⚡ Synchronous Collaboration:** 8+ hours timezone overlap with US Eastern (EST), Central (CST), and Pacific (PST).
+- **🔒 IP Protection & Confidentiality:** 100% intellectual property and code ownership belongs to clients under strict NDAs.
+- **🎯 Agile Velocity:** Sprint-based deliveries, automated CI/CD pipelines, and clean architecture standards.
 
 ---
 
